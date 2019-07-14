@@ -1,2 +1,2 @@
 # MaaS-Planning
-Multimogal Graphs for MaaS Planning Operations
+Multimodal Graphs for MaaS Planning Operations
